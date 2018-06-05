@@ -1,0 +1,21 @@
+.loading{
+	text-align:center;
+	visibility:hidden;
+}
+
+p{
+	margin:0;
+}
+
+.car{
+	text-align:center;
+}
+
+.carimg{
+	text-align:center;
+	display:none;
+}
+
+.cartype,.wheeltype{
+	display:none;
+}

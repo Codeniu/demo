@@ -3,10 +3,6 @@
 <<<<<<< HEAD
 描述：
 ![enter image description here](https://github.com/Codeniu/demo/raw/master/images/1haodian.png)
-=======
-描述：![Alt text](demo/StaticWebPage/images/1haodian.png)
->>>>>>> c2a00958cbab64e4a440e8a37f05e179f6909551
-
 
 ###Canvas梦幻大树生长动画特效
 描述：

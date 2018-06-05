@@ -1,6 +1,6 @@
 ##静态网页
 ### 一号店
-描述：![Alt text](./1haodian.png)
+描述：![Alt text](demo/StaticWebPage/images/1haodian.png)
 
 
 ###Canvas梦幻大树生长动画特效

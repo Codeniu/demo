@@ -1,0 +1,13 @@
+﻿<Context>
+<Resource  
+		name="jdbc/Message"  
+		auth="Container"  
+		type="javax.sql.DataSource"  
+		driverClassName="com.mysql.jdbc.Driver"  
+		url="jdbc:mysql://114.115.184.18:3306/bbs_message?useUnicode=true&amp;characterEncoding=utf-8"  
+		username="root"  
+		password="root"  
+		maxActive="20"  
+		maxIdle="10"  
+		maxWait="10000" />
+</Context>
